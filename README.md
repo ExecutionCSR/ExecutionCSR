@@ -1,8 +1,8 @@
-# Hello, I am Renato! Nice to see you here! <img src="https://github.com/Oliveira-Renato/Oliveira-Renato/blob/main/src/wave.gif" width="30px">
+# Hello, I am Caio! Nice to see you here! <img src="https://github.com/Oliveira-Renato/Oliveira-Renato/blob/main/src/wave.gif" width="30px">
 
 <img src="https://github.com/Oliveira-Renato/Oliveira-Renato/blob/main/src/header_.png">
 
-My name is Renato, currently working as a WEB programmer at the company KENNEN Tecnologia and also studying Analysis and Systems Development. I'm always looking for new challenges and opportunities to learn more and more. When I'm not in front of my computer, you can find me reading a good book or playing a good game.
+My name is Caio, currently working as a WEB programmer at the company KENNEN Tecnologia and also studying Analysis and Systems Development. I'm always looking for new challenges and opportunities to learn more and more. When I'm not in front of my computer, you can find me reading a good book or playing a good game.
 
 Find out more about me & feel free to connect with me here:
 
@@ -24,7 +24,7 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-![Renato's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Oliveira-Renato&hide_border=true&theme=redical)
+![Caio's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Oliveira-Renato&hide_border=true&theme=redical)
 
 ---
 
