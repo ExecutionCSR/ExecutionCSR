@@ -1,4 +1,4 @@
-# Hello, I am Caio! Nice to see you here! <img src="https://github.com/Oliveira-Renato/Oliveira-Renato/blob/main/src/wave.gif" width="30px">
+# Hello, I am Caio! Nice to see you here! <img src="https://github.com/Oliveira-Renato/Oliveira-Renato/blob/main/src/chiriro043.jpg" width="30px">
 
 <img src="https://github.com/Oliveira-Renato/Oliveira-Renato/blob/main/src/header_.png">
 
