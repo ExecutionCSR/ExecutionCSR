@@ -17,7 +17,7 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-![Caio's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ExecutionCSR&hide_border=true&theme=redical)
+![Caio's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ExecutionCSR&custom_tittle=Caio&hide_border=true&theme=react-dark)
 
 ---
 
@@ -33,6 +33,7 @@ Find out more about me & feel free to connect with me here:
 ### 💻 Libraries & Framework
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React-Native](https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🧑🏻‍💻 Tools & Platform
 
