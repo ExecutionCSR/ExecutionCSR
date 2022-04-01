@@ -33,7 +33,7 @@ Find out more about me & feel free to connect with me here:
 ### 💻 Libraries & Framework
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React-Native](https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React-Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAF)
 
 ### 🧑🏻‍💻 Tools & Platform
 
