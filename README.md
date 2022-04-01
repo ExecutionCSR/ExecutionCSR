@@ -34,8 +34,6 @@ Find out more about me & feel free to connect with me here:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
-
 ### 🧑🏻‍💻 Tools & Platform
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -46,12 +44,12 @@ Find out more about me & feel free to connect with me here:
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=oliveira-renato&theme=nord&column=7" >
+<img src="https://github-profile-trophy.vercel.app/?username=ExecutionCSR&theme=nord&column=7" >
 
 
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Oliveira-Renato&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Oliveira-Renato&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ExecutionCSR&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ExecutionCSR&hide_border=true&theme=radical" />
 </p>
