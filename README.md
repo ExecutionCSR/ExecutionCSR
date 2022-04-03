@@ -1,6 +1,6 @@
 # Hello, I'm Caio and welcome to my profile! 
 
-<img src="https://github.com/ExecutionCSR/ExecutionCSR/blob/main/src/chihiro043.jpg">
+<img src="https://github.com/ExecutionCSR/ExecutionCSR/blob/main/src/Nova%20Tela.jpeg">
 
 <h4>
 My name is Caio, I currently work as a WEB programmer at KENNEN Tecnologia. I'm a beginner in the programming area so I'm still learning about it, this profile is to keep what I'm learning... when I remember to commit my projects.
