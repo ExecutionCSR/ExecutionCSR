@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ExecutionCSR/ExecutionCSR/blob/main/src/chihiro043.jpg">
 
-My name is Caio, currently working as a WEB programmer at the company KENNEN Tecnologia and also studying Analysis and Systems Development. I'm always looking for new challenges and opportunities to learn more and more. When I'm not in front of my computer, you can find me reading a good book or playing a good game.
+My name is Caio, I currently work as a WEB programmer at KENNEN Tecnologia. I'm a beginner in the programming area so I'm still learning about it, this profile is to keep what I'm learning... when I remember to commit my projects.
 
 Find out more about me & feel free to connect with me here:
 
