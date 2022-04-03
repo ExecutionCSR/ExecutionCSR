@@ -47,9 +47,9 @@ Means of contacting me:
 <img src="https://github-profile-trophy.vercel.app/?username=ExecutionCSR&theme=react-dark&column=7" >
 
 
-## 📈 Stats
+## 📈 Status
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ExecutionCSR&show_icons=true&hide_border=true&theme=react-dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ExecutionCSR&hide_border=true&theme=react-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ExecutionCSR&show_icons=true&hide_border=true&theme=react" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ExecutionCSR&hide_border=true&theme=react" />
 </p>
