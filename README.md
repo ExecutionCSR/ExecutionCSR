@@ -7,7 +7,7 @@ My name is Caio, I currently work as a WEB programmer at KENNEN Tecnologia. I'm 
 Means of contacting me:
 
 <p align="center">
-  <a href="https://wa.me/55119967967158">
+  <a href="https://wa.me/5511967967158">
 		<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 	</a>
   <a href="mailto:silvakaio611@gmail.com">
