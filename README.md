@@ -44,7 +44,7 @@ Means of contacting me:
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ExecutionCSR&theme=react-dark&column=7" >
+<img src="https://github-profile-trophy.vercel.app/?username=ExecutionCSR&theme=onestar&column=7" >
 
 
 ## 📈 Status
