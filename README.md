@@ -19,7 +19,7 @@ Means of contacting me:
 
 ---
 
-![Caio's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ExecutionCSR&custom_tittle=Caio&hide_border=true&theme=react-dark)
+![Caio's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ExecutionCSR&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark)
 
 ---
 
@@ -52,6 +52,6 @@ Means of contacting me:
 <h3 style='align-item:center;justify-content:center'> 📈 Stats </h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ExecutionCSR&show_icons=true&hide_border=true&theme=react" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ExecutionCSR&custom_title=Github%20Stats&show_icons=true&hide_border=true&theme=react" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ExecutionCSR&hide_border=true&theme=react" />
 </p>
