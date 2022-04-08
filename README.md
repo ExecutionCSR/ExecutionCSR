@@ -1,4 +1,4 @@
-# CAVALO
+# Hello I'm Caio and Welcome to my Profile
 
 <img src="https://github.com/ExecutionCSR/ExecutionCSR/blob/main/src/Nova%20Tela.jpeg">
 
@@ -54,4 +54,6 @@ Means of contacting me:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ExecutionCSR&custom_title=Github%20Stats&show_icons=true&hide_border=true&theme=react" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ExecutionCSR&hide_border=true&theme=react" />
+  <img width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExecutionCSR&theme=react&hide_border=true" />
 </p>
+
