@@ -3,7 +3,7 @@
 <img src="https://github.com/ExecutionCSR/ExecutionCSR/blob/main/src/Nova%20Tela.jpeg">
 
 <h4>
-My name is Caio, I currently work as a WEB programmer at KENNEN Tecnologia. I'm a beginner in the programming area so I'm still learning about it, this profile is to keep what I'm learning... when I remember to commit my projects.
+My name is Caio, I currently work as a WEB programmer at KENNEN Tecnologia. I'm a beginner in the programming area so I'm still learning about it, this profile is to keep what I'm learning... if I remember to commit my projects.
 <br>
 <br>
 Means of contacting me:
