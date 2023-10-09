@@ -19,7 +19,7 @@ Means of contacting me:
 
 ---
 
-![Caio's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ExecutionCSR&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark)
+![Caio's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ExecutionCSR&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark)
 
 ---
 
